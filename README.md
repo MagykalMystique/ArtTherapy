@@ -1,4 +1,4 @@
-# ArtTherapy.py
+# ArtTherapy
 A simple doodling program using python's turtle module
 
 This Art therapy program was my final project for my intro to computer science class
